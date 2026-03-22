@@ -1,4 +1,4 @@
-from first_function import add 
+from first_functions import add 
 
 result = add(2, 3)
 assert result ==5
