@@ -1,5 +1,7 @@
-from first_functions import add 
+"""This is a test file for all of the prolems coming forth"""
+from first_functions import add
 
-result = add(2, 3)
-assert result ==5
+RESLULT = add(2, 3)
+assert RESLULT ==5
+
 print("Test passed")
